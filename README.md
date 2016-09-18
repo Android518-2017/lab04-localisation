@@ -4,7 +4,7 @@
 
 Create a simple app that displays a country name and an associated image that are specific to a language.   The image will launch  google maps to locate the country when clicked.  Localise it for 5 languages/countries  (i.e. when it runs it displays the image and text associated with the locale without programmer intervention.)  There will be simple coding for this,  it is mostly  done in res(ource) directories.
 
-1. Create a simple app UI that has a TextView and ImageButton.
+1. Create a simple app UI that has a TextView and ImageButton. Use LinearLayout or RelativeLayout.
 
 1. Populate default directories (res/values/ and res/drawable/ no localisation yet) with a country name string in values/strings.xml  and a country image in drawable/.  Your app may crash if you do not have a default on device/AVD start up.  Your  devices are factory set to  English US (en-rUS.)  Choose an english speaking country.
 For example you could use a map of  Canada in the drawable directory named country.png and  Canada in &lt;string name=&quot;country&quot;&gt;Canada&lt;/string&gt; .
