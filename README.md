@@ -1,6 +1,6 @@
 ## Lab 04
 
-###Created using https://word-to-markdown.herokuapp.com/
+###This readme created using https://word-to-markdown.herokuapp.com/
 
 Create a simple app that displays a country name and an associated image that are specific to a language.   The image will launch  google maps to locate the country when clicked.  Localise it for 5 languages/countries  (i.e. when it runs it displays the image and text associated with the locale without programmer intervention.)  There will be simple coding for this,  it is mostly  done in res(ource) directories.
 
