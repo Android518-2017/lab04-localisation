@@ -32,7 +32,7 @@ See [http://developer.android.com/guide/topics/resources/providing-resources.htm
 
 Once everything is working for each language modify your ImageButton so that the image fills the screen including when you rotate.
 
-I have given you an example app [http://bit.ly/518droid](http://bit.ly/518droid) lab04-teachers-example.apk   this is the behaviour I exepect.
+I have given you an example app  in this repo [apk](lab04-teachers-example.apk)    this is the behaviour I exepect.
 
 ## Optional:
 
@@ -48,4 +48,4 @@ I have given you an example app [http://bit.ly/518droid](http://bit.ly/518droid)
 - [http://developer.android.com/guide/topics/resources/localization.html](http://developer.android.com/guide/topics/resources/localization.html)
 - [http://www.icanlocalize.com/site/tutorials/android-application-localization-tutorial/](http://www.icanlocalize.com/site/tutorials/android-application-localization-tutorial/)
 
-- My repo on github https://github.com/Android518-2016 see  week04-localisation  &amp; week04-resources
+- My repo on github <https://github.com/Android518-2017> see  week04-localisation  &amp; week04-resources
